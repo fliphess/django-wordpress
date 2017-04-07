@@ -4,7 +4,7 @@ import wordpress
 long_description = open('README.rst').read()
 
 setup(
-    name='the-real-django-wordpress',
+    name='django-wordpress',
     version=wordpress.__version__,
     description='Django models and views for a WordPress database.',
     long_description=long_description,
